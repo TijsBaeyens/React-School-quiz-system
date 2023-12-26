@@ -1,0 +1,11 @@
+Opdracht,Titel,Beschrijving,Duurtijd
+Testdemonstratie SeattleFlights,Query 1,"Toon alle vluchten (luchtvaartmaatschappij en vluchtnummer) met bestemming CLT (Charlotte, North Carolina).",5
+Testdemonstratie SeattleFlights,Query 2,Toon alle vluchtenwaarvan de aankomst minstens 30 minuten vertraagd was. Toon de naam van de vlucht(carrier+nr)én de vertraging. Toon de grootste vertragingen eerst.,5
+Testdemonstratie SeattleFlights,Query 3,"Toon maand, dag, tijd en vlucht (carrier+nr) met on-time vertrek. Sorteren op maand, dan op dag.",5
+Testdemonstratie SeattleFlights,Query 4,"Toon welke vluchten te laat zijn aangekomen maar te vroeg zijn vertrokken en geef aan hoeveel minuten er daadwerkelijk verloren zijn gegaan(het vliegtuig langer dan verwacht onderweg was). Gebruik een kolom met de naam 'verloren minuten', hoogste aantal minuten bovenaan.",5
+Testdemonstratie SeattleFlights,Query 5,Welke maatschappijen vertrokken met een vertraging van meer dan 30 minuten en kwamen later dan 30 minuten te laat aan?,7
+Testdemonstratie SeattleFlights,Query 6,"Toon alle vluchten naar alle steden behalve CLT, DFW en ERW. Beperk je resultaten tot de eerste 500 lijnen.",7
+Testdemonstratie SeattleFlights,Query 7,Welke maatschappijen vertrokken later dan 45 minuten te laat of kwamen later dan 30 minuten te laat aan?,7
+Testdemonstratie SeattleFlights,Query 8,Welke vliegtuigen(staartnummer)vliegen naar San Francisco(SFO)? Hernoem het uitvoerveld Vliegtuig.,7
+Testdemonstratie SeattleFlights,Query 9,"Toon vluchten waarvan het getal van de totale afstand begint met een 2 (bv. 215, 2260) of een 7 heeft als tweede cijfer (bv. 679).",10
+Testdemonstratie SeattleFlights,Query 10,"Toon de vluchtinformatie (luchtvaartmaatschappij, vlucht, tijd) voor alle vluchten naar één van beide luchthavens in Chicago (ORD, MDW) op kerstavond (24 december) met vertrek in de namiddag. ",10
